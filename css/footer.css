@@ -28,10 +28,10 @@ footer {
   background-color: #d3d6da;
 }
 
-.board_row.row_2 .board_block:nth-child(1) {
+.board_row.row_2 .board_column:nth-child(1) {
   width: 70px;
 }
 
-.board_row.row_2 .board_block:nth-child(9) {
+.board_row.row_2 .board_column:nth-child(9) {
   width: 70px;
 }
