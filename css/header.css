@@ -1,0 +1,42 @@
+header {
+  border-bottom: 1px solid #ededef;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.info-bar {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 30px 30px 0 30px;
+}
+
+.info-bar__left img {
+  width: 30px;
+}
+
+.info-bar__center h1 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.info-bar__right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-bar__right img {
+  width: 30px;
+}
+
+.info-bar__right-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15px;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 200px;
+  height: 30px;
+}
